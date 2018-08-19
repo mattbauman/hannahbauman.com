@@ -15,8 +15,8 @@
 }
 </style>
 
-<?php include_once('../gtag.php'); ?>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<?php include_once('../head.php'); ?>
+
 
 </head>
 
@@ -34,14 +34,10 @@
       <br>
     </article>
     <article class="article">
-      <?php include_once('../about.php'); ?>
+      <?php include_once('../bodyEnd.php'); ?>
       <br>
     </article>
-    <article class="article">
-      <?php include_once('../contact.php'); ?> 
-      <br>
-    </article>
-  
+
 </div>
 
 

@@ -15,8 +15,8 @@
 }
 </style>
 
-<?php include_once('gtag.php'); ?>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<?php include_once('head.php'); ?>
+
 
 </head>
 
@@ -30,15 +30,11 @@
 <br>
 <div class="w3-large">
     <article class="article">
-      <?php include_once('2018-05-21_red_wing/2018-05-21_red_wing.php'); ?>
+      <?php include_once('2018-08-04_nisswa/2018-08-04_nisswa.php'); ?>
       <br>
     </article>
     <article class="article">
-      <?php include_once('about.php'); ?>
-      <br>
-    </article>
-    <article class="article">
-      <?php include_once('contact.php'); ?> 
+      <?php include_once('bodyEnd.php'); ?>
       <br>
     </article>
   
