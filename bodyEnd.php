@@ -21,6 +21,7 @@
 <div class="w3-container" id="blog_list" style="padding-bottom:32px;">
   <div class="w3-content w3-card w3-padding">
     <h1 class="w3-center"><b>BLOG</b></h1>
+    <p><a href="/2019-01-29_st_augustine_fl/">2019-01-29 St Augustine, Florida</a></p>
     <p><a href="/2018-12-14_duluth/">2018-12-14 Duluth</a></p>
     <p><a href="/2018-08-22_state_fair/">2018-08-22 State Fair</a></p>
     <p><a href="/2018-08-04_nisswa/">2018-08-04 Nisswa, MN</a></p>
