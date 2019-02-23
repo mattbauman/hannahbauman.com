@@ -30,7 +30,7 @@
 <br>
 <div class="w3-large">
     <article class="article">
-      <?php include_once('2019-01-29_st_augustine_fl/2019-01-29_st_augustine_fl.php'); ?>
+      <?php include_once('2019-02-22_sioux_falls/2019-02-22_sioux_falls.php'); ?>
       <br>
     </article>
     <article class="article">
