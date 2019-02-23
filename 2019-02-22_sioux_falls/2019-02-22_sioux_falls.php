@@ -1,7 +1,7 @@
 <div class="w3-container">
   <div class="w3-content">
     <div class="w3-row w3-card w3-padding">
-      <h1 class="w3-center"><a href="/2019-02-22_sioux_falls/"><b>St Augustine, Florida</b></a></h1>
+      <h1 class="w3-center"><a href="/2019-02-22_sioux_falls/"><b>Sioux Falls</b></a></h1>
       <h5 class="w3-center"><time datetime="2019-01-29">February 22nd, 2019</time></h5>
       <p>We decided to do a big road trip last May to the Black Hills in South Dakota. During the first leg of the trip, we decided to spend a night in Sioux Falls. I was so glad we did- it was an unexpected surprise and I hope to go back to that cute city again soon!</p>
       <div class="w3-row">  
