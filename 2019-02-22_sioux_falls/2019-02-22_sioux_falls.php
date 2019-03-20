@@ -25,41 +25,14 @@
       <p>
       We didn’t stay anywhere fancy in Sioux Falls since we were just going to spend a night. The Comfort Inn worked for us! However- when we plan another trip to that area, I’d book a hotel closer to downtown so you could more easily ditch your car and walk around. 
       </p>
-      <div class="w3-row">  
-        <div class="w3-padding w3-col l3"></div>
-        <div class="w3-border w3-padding w3-col l6">       
-          <div class="slideshow-container">
-            <div class="mySlides2"><img src="/2019-02-22_sioux_falls/train_1.JPG" style="width:100%"></div>
-            <div class="mySlides2"><img src="/2019-02-22_sioux_falls/keystone_1.JPG" style="width:100%"></div>
-            <div class="mySlides2"><img src="/2019-02-22_sioux_falls/keystone_2.JPG" style="width:100%"></div>
-            <div class="mySlides2"><img src="/2019-02-22_sioux_falls/mt_rushmore_1.JPG" style="width:100%"></div>
-            <div class="mySlides2"><img src="/2019-02-22_sioux_falls/mt_rushmore_2.JPG" style="width:100%"></div>
-            <div class="mySlides2"><img src="/2019-02-22_sioux_falls/mt_rushmore_3.JPG" style="width:100%"></div>
-            <a class="prev" onclick="plusSlides(-1, 1)">&#10094;</a>
-            <a class="next" onclick="plusSlides(1, 1)">&#10095;</a>
-          </div>
-        </div>
-        <div class="w3-padding w3-col l3"></div>
-      </div>
+
       <p>
       We throughly enjoyed walking around the downtown area. There are a lot of eclectic shops filled with everything you can imagine- antiques, books, children’s toys and more. Plus they have an awesome <a href="https://sculpturewalksiouxfalls.com" target="_blank">sculpture walk</a> throughout downtown. It changes every year so if you came back to visit again and again- you’d always be seeing something new! Summit’s favorite sculptures were a grizzly bear made out of forks and Sasquatch made out of copper wire :)
       </p>
       <p>
       We ate a casual dinner at the <a href="https://www.phillipsavenuediner.com" target="_blank">Phillips Ave Diner</a>, an old school diner right in the downtown area. It was the perfect place for a us to stop for a bit while exploring the downtown area. We also had some coffee at <a href="https://coffearoasterie.com" target="_blank">Coffea Roasterie and Espresso Bar</a>. Let me tell you right now— it was the BEST coffee I’ve ever had. I am a pretty steady coffee drinker so to knock it out of the park like that was amazing. I would highly recommend stopping here if you like coffee. You’ll LOVE it after you have some from Coffea! 
       </p>
-      <div class="w3-row">  
-        <div class="w3-padding w3-col l3"></div>
-        <div class="w3-border w3-padding w3-col l6">       
-          <div class="slideshow-container">
-            <div class="mySlides3"><img src="/2019-02-22_sioux_falls/corn_palace_1.JPG" style="width:100%"></div>
-            <div class="mySlides3"><img src="/2019-02-22_sioux_falls/badlands_1.JPG" style="width:100%"></div>
-            <div class="mySlides3"><img src="/2019-02-22_sioux_falls/badlands_2.JPG" style="width:100%"></div>
-            <a class="prev" onclick="plusSlides(-1, 2)">&#10094;</a>
-            <a class="next" onclick="plusSlides(1, 2)">&#10095;</a>
-          </div>
-        </div>
-        <div class="w3-padding w3-col l3"></div>
-      </div>
+
       <p>
       The next day we stopped by the falls of Sioux Falls to check it out. It was very cool with rocks over a billion years old! There was a lot to look around and see- but we didn’t stay very long since we needed to make it all the way to the Black Hills before sundown. Of course we quickly made a pitstop to check out Summit Ave for Summit. He wasn’t really having it, but Matt and I thought it was cool. 
       </p>
